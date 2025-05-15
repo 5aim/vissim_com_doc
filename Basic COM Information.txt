@@ -1,0 +1,4 @@
+Vissim COM Intro : C:\Program Files\PTV Vision\PTV Vissim 2023\Doc\Eng\Vissim 2023 - COM Intro.pdf
+
+Vissim COM Example : C:\Users\Public\Documents\PTV Vision\PTV Vissim 2023\Examples Training\COM\Basic Commands
+
