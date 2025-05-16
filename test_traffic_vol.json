@@ -1,0 +1,196 @@
+[
+    {
+      "timestamp": "2025-05-16T09:00:00",
+      "cross_id": "T001",
+      "cross_name": "삼거리1",
+      "cross_type": "3지",
+      "smart_intersection": true,
+      "approaches": [
+        {
+          "approach_id": "A1",
+          "movements": [
+            {"direction_id": 1, "volume": 120},
+            {"direction_id": 2, "volume": 250},
+            {"direction_id": 3, "volume": 90}
+          ]
+        },
+        {
+          "approach_id": "A2",
+          "movements": [
+            {"direction_id": 1, "volume": 100},
+            {"direction_id": 2, "volume": 180},
+            {"direction_id": 3, "volume": 60}
+          ]
+        },
+        {
+          "approach_id": "A3",
+          "movements": [
+            {"direction_id": 1, "volume": 80},
+            {"direction_id": 2, "volume": 220},
+            {"direction_id": 3, "volume": 70}
+          ]
+        }
+      ],
+      "total_volume": 1170
+    },
+    {
+      "timestamp": "2025-05-16T09:00:00",
+      "cross_id": "T002",
+      "cross_name": "삼거리2",
+      "cross_type": "3지",
+      "smart_intersection": false,
+      "approaches": [
+        {
+          "approach_id": "B1",
+          "movements": [
+            {"direction_id": 1, "volume": 110},
+            {"direction_id": 2, "volume": 210},
+            {"direction_id": 3, "volume": 100}
+          ]
+        },
+        {
+          "approach_id": "B2",
+          "movements": [
+            {"direction_id": 1, "volume": 90},
+            {"direction_id": 2, "volume": 160},
+            {"direction_id": 3, "volume": 80}
+          ]
+        },
+        {
+          "approach_id": "B3",
+          "movements": [
+            {"direction_id": 1, "volume": 70},
+            {"direction_id": 2, "volume": 190},
+            {"direction_id": 3, "volume": 60}
+          ]
+        }
+      ],
+      "total_volume": 1070
+    },
+    {
+      "timestamp": "2025-05-16T09:00:00",
+      "cross_id": "F001",
+      "cross_name": "사거리1",
+      "cross_type": "4지",
+      "smart_intersection": true,
+      "approaches": [
+        {
+          "approach_id": "C1",
+          "movements": [
+            {"direction_id": 1, "volume": 130},
+            {"direction_id": 2, "volume": 270},
+            {"direction_id": 3, "volume": 110}
+          ]
+        },
+        {
+          "approach_id": "C2",
+          "movements": [
+            {"direction_id": 1, "volume": 95},
+            {"direction_id": 2, "volume": 200},
+            {"direction_id": 3, "volume": 85}
+          ]
+        },
+        {
+          "approach_id": "C3",
+          "movements": [
+            {"direction_id": 1, "volume": 90},
+            {"direction_id": 2, "volume": 240},
+            {"direction_id": 3, "volume": 75}
+          ]
+        },
+        {
+          "approach_id": "C4",
+          "movements": [
+            {"direction_id": 1, "volume": 105},
+            {"direction_id": 2, "volume": 230},
+            {"direction_id": 3, "volume": 95}
+          ]
+        }
+      ],
+      "total_volume": 1925
+    },
+    {
+      "timestamp": "2025-05-16T09:00:00",
+      "cross_id": "F002",
+      "cross_name": "사거리2",
+      "cross_type": "4지",
+      "smart_intersection": false,
+      "approaches": [
+        {
+          "approach_id": "D1",
+          "movements": [
+            {"direction_id": 1, "volume": 100},
+            {"direction_id": 2, "volume": 180},
+            {"direction_id": 3, "volume": 70}
+          ]
+        },
+        {
+          "approach_id": "D2",
+          "movements": [
+            {"direction_id": 1, "volume": 85},
+            {"direction_id": 2, "volume": 210},
+            {"direction_id": 3, "volume": 65}
+          ]
+        },
+        {
+          "approach_id": "D3",
+          "movements": [
+            {"direction_id": 1, "volume": 75},
+            {"direction_id": 2, "volume": 190},
+            {"direction_id": 3, "volume": 80}
+          ]
+        },
+        {
+          "approach_id": "D4",
+          "movements": [
+            {"direction_id": 1, "volume": 90},
+            {"direction_id": 2, "volume": 205},
+            {"direction_id": 3, "volume": 60}
+          ]
+        }
+      ],
+      "total_volume": 1615
+    },
+    {
+      "timestamp": "2025-05-16T09:00:00",
+      "cross_id": "F003",
+      "cross_name": "사거리3",
+      "cross_type": "4지",
+      "smart_intersection": true,
+      "approaches": [
+        {
+          "approach_id": "E1",
+          "movements": [
+            {"direction_id": 1, "volume": 115},
+            {"direction_id": 2, "volume": 250},
+            {"direction_id": 3, "volume": 90}
+          ]
+        },
+        {
+          "approach_id": "E2",
+          "movements": [
+            {"direction_id": 1, "volume": 100},
+            {"direction_id": 2, "volume": 220},
+            {"direction_id": 3, "volume": 80}
+          ]
+        },
+        {
+          "approach_id": "E3",
+          "movements": [
+            {"direction_id": 1, "volume": 85},
+            {"direction_id": 2, "volume": 240},
+            {"direction_id": 3, "volume": 70}
+          ]
+        },
+        {
+          "approach_id": "E4",
+          "movements": [
+            {"direction_id": 1, "volume": 95},
+            {"direction_id": 2, "volume": 260},
+            {"direction_id": 3, "volume": 100}
+          ]
+        }
+      ],
+      "total_volume": 1915
+    }
+  ]
